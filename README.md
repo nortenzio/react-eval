@@ -20,7 +20,7 @@ Recreate the functionality specified below. Refer to the images in `/docs` for r
 
 - Match the style in the provided images as closely as possible
 
-- After 1 hour, upload the contents of the repository to a *new repo* hosted on your github account, and email the url to nortenzio@nba.com. **Do not fork from the original repo. do not make a PR back to original repo**
+- After 1 hour, upload the contents of the repository to a *new* github hosted repository hosted from your account, and email the url to nortenzio@nba.com. **Do not fork from the original repo. do not make a PR back to original repo**
 
 
 ### Players Section
