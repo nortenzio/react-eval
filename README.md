@@ -20,7 +20,7 @@ Recreate the functionality specified below. Refer to the images in `/docs` for r
 
 - Match the style in the provided images as closely as possible
 
-- After 1 hour, zip of the content of your project *without* the `node_modules` directory and email to nortenzio@nba.com, alternatively, you can fork this repository and commit your changes to your personal fork. Send a URL of the forked repository. **Do not make a PR back to this repo**
+- After 1 hour, upload the contents of the repository to a *new repo* hosted on your github account, and email the url to nortenzio@nba.com. **Do not fork from the original repo. do not make a PR back to original repo**
 
 
 ### Players Section
